@@ -1,5 +1,9 @@
 # 📊 TechLevel BI & Analytics - SGTI SISTEMA DE GERENCIAMENTO DA TECNOLOGIA DA INFORMAÇÃO
+## 👤 Autor
 
+*Luis Carlos Pereira dos Santos Junior* *Systems Analyst & Full-Stack Programmer | Data Science 📍 Candeias, Bahia - Brasil.  
+
+[![GitHub](https://img.shields.io/badge/GitHub-duninhorr-181717?style=flat&logo=github)](https://github.com/duninhorr)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-777bb4.svg)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
